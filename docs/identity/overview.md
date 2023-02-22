@@ -1,15 +1,15 @@
 ---
 description: >-
-  Your digital identity, which allows you to securely access various
-  applications while keeping your personal information private.
+  Ваша цифрова ідентичність, яка дозволяє вам безпечно отримувати доступ до
+  різних додатків, зберігаючи при цьому вашу особисту інформацію в таємниці.
 ---
 
-# 👤 Overview
+# 👤 Огляд
 
-## Wallet
+## Гаманець
 
-The identity app has all the features of traditional crypto wallets, allowing users to store cryptocurrency, items, and create transactions. It is a secure and convenient way to manage digital assets and make transactions with ease.
+Додаток ідентичності має всі функції традиційних криптогаманців, дозволяючи користувачам зберігати криптовалюту, предмети та створювати транзакції. Це безпечний і зручний спосіб керувати цифровими активами та з легкістю здійснювати транзакції.
 
-## Sessions
+## Сеанси
 
-Sessions allow multiple public keys to be used to authenticate a user. Having the ability to customize permissions for each key, giving them full control over who has access to their account and what actions they are allowed to perform.
+Сеанси дозволяють використовувати декілька відкритих ключів для автентифікації користувача. Маючи можливість налаштувати дозволи для кожного ключа, надаючи їм повний контроль над тим, хто має доступ до їх облікового запису та які дії їм дозволено виконувати.

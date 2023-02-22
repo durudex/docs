@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Introduction](README.md)
+* [👋 Вступ](README.md)
 
-## identity
+## Ідентичність <a href="#identity" id="identity"></a>
 
-* [👤 Overview](identity/overview.md)
-* [🏷 Names](identity/names.md)
+* [👤 Огляд](identity/overview.md)
+* [🏷 Імена](identity/names.md)

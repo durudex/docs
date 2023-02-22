@@ -1,22 +1,22 @@
 ---
 description: >-
-  Durudex is a decentralized social network where users can share their ideas,
-  opinions and stories, as well as collaborate with others in an open and safe
-  environment.
+  Durudex — це децентралізована соціальна мережа, де користувачі можуть ділитися
+  своїми ідеями, думками та історіями, а також співпрацювати з іншими у
+  відкритому та безпечному середовищі.
 ---
 
-# 👋 Introduction
+# 👋 Вступ
 
-## User choice
+## Вибір користувача
 
-We invite every user to contribute to the project. The source code of the project is open for reading and modification, so users can make their own changes. Furthermore, users can create polls to decide on important issues. This way, everyone can have their say and help shape the project.
+Ми запрошуємо кожного користувача долучитися до проекту. Вихідний код проекту відкритий для читання та модифікації, тому користувачі можуть вносити власні зміни. Крім того, користувачі можуть створювати опитування для вирішення важливих питань. Таким чином кожен може висловити свою думку та допомогти сформувати проект.
 
-## Decentralization
+## Децентралізація
 
-The network is fully decentralized and can operate independently, without the need for a centralized authority. This means that users have greater control over their data and the platform is more secure and resistant to censorship. Additionally, it allows for faster transactions and more efficient decision-making, as decisions are made by consensus rather than by a single entity.
+Мережа повністю децентралізована і може працювати незалежно, без потреби в централізованому управлінні. Це означає, що користувачі мають більший контроль над своїми даними, а платформа є більш безпечною і стійкою до цензури. Крім того, це дозволяє швидше здійснювати транзакції та ефективніше приймати рішення, оскільки рішення приймаються консенсусом, а не одним суб'єктом.
 
-## Roadmap
+## Дорожня карта
 
-The Durudex team is working hard to create a fully decentralized, user-driven social network as soon as possible. We have an ambitious roadmap to ensure that the network is fully ready for release.
+Команда Durudex наполегливо працює над тим, щоб якомога швидше створити повністю децентралізовану соціальну мережу, керовану користувачами. У нас є амбітна дорожня карта, щоб гарантувати, що мережа повністю готова до випуску.
 
-<figure><img src=".gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/durudex/durudex-docs/en/docs/.gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>

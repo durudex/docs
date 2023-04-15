@@ -2,7 +2,13 @@
 
 * [👋 Вступ](README.md)
 
-## Ідентичність <a href="#identity" id="identity"></a>
+## Навчання <a href="#learn" id="learn"></a>
 
-* [👤 Огляд](identity/overview.md)
-* [🏷 Імена](identity/names.md)
+* [⛓ Ланцюжок](learn/chain.md)
+* [Verbi](https://twitter.com/VerbiSuggestum)
+
+## Сервіси <a href="#services" id="services"></a>
+
+* [👤 Ідентичність](services/identity.md)
+* [🏕 Соціальний](services/social.md)
+* [😎 Імена](services/names.md)

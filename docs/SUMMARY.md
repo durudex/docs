@@ -2,7 +2,13 @@
 
 * [👋 Introduction](README.md)
 
-## identity
+## Learn
 
-* [👤 Overview](identity/overview.md)
-* [🏷 Names](identity/names.md)
+* [⛓ Chain](learn/chain.md)
+* [Verbi](https://twitter.com/VerbiSuggestum)
+
+## Services
+
+* [👤 Identity](services/identity.md)
+* [🏕 Social](services/social.md)
+* [😎 Names](services/names.md)

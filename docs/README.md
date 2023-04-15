@@ -1,22 +1,20 @@
 ---
 description: >-
-  Durudex is a decentralized social network where users can share their ideas,
-  opinions and stories, as well as collaborate with others in an open and safe
-  environment.
+  Durudex is a digital platform that provides the infrastructure for developing
+  and deploying modern applications.
+layout: landing
 ---
 
 # 👋 Introduction
 
-## User choice
+## Purpose
 
-We invite every user to contribute to the project. The source code of the project is open for reading and modification, so users can make their own changes. Furthermore, users can create polls to decide on important issues. This way, everyone can have their say and help shape the project.
+Our main goal is to develop a digital platform that provides the infrastructure for developing and deploying modern applications. We strive to create products that will help our customers increase their efficiency and competitive advantage in the market. Our team is also focused on creating our own modern services that meet high quality and security standards. We understand that technology is constantly evolving, so we are always on the lookout for new products and strive to use the most advanced solutions to achieve the best results.
 
 ## Decentralization
 
-The network is fully decentralized and can operate independently, without the need for a centralized authority. This means that users have greater control over their data and the platform is more secure and resistant to censorship. Additionally, it allows for faster transactions and more efficient decision-making, as decisions are made by consensus rather than by a single entity.
+Our platform provides developers with the ability to create decentralized applications, which is one of its main advantages. Decentralized applications use a distributed architecture that allows them to operate without dependence on a central server or controller. Applications of this type can store data on different network nodes, providing a high degree of security and availability.
 
 ## Roadmap
-
-The Durudex team is working hard to create a fully decentralized, user-driven social network as soon as possible. We have an ambitious roadmap to ensure that the network is fully ready for release.
 
 <figure><img src=".gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>

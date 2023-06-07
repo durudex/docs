@@ -4,4 +4,4 @@
 
 ## Protocol
 
-* [👥 Durudex Social](protocol/durudex-social.md)
+* [👥 Durudex Social](protocol/social.md)

@@ -4,4 +4,4 @@
 
 ## Протокол <a href="#protocol" id="protocol"></a>
 
-* [👥 Durudex Social](protocol/social.md)
+* [👥 Durudex Social](protocol/durudex-social.md)
